@@ -1,6 +1,7 @@
 #! /bin/bash
 
-func(){
+func()
+{
 
 echo "hello world"
 
